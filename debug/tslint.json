@@ -1,0 +1,6 @@
+{
+  "rulesDirectory": "../dist",
+  "rules": {
+    "todo-assignees": [true, ["hsuanxyz"]]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "es5"
+  },
+  "files": ["index.ts"]
+}
